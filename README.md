@@ -7,6 +7,7 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 
 # Question (KPIs)
 - Sales Performance KPIs
+  
 What is the total sales revenue?
 How does profit compare to total sales?
 What is the average order value (AOV)?
