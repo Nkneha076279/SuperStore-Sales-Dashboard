@@ -35,7 +35,7 @@ Insights & Recommendations – Identified top-performing products, regions, and 
 
 ## SuperStore Sales-Dashboard
 ![Screenshot 2025-02-25 210713](https://github.com/user-attachments/assets/4515ee86-9a78-4fd5-964d-ce7ad54450b8)
-##SuperStore Sales Forecasting-15 Days 
+## SuperStore Sales Forecasting-15 Days 
 ![Screenshot 2025-02-25 210727](https://github.com/user-attachments/assets/f2f04e14-345d-4012-957f-9365025c73b3)
 
 ## Project Insights:
