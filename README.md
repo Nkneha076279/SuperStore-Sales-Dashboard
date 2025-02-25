@@ -40,27 +40,27 @@ Insights & Recommendations – Identified top-performing products, regions, and 
 ![Screenshot 2025-02-25 210727](https://github.com/user-attachments/assets/f2f04e14-345d-4012-957f-9365025c73b3)
 
 ## Project Insights:
-# Sales Performance:
+## Sales Performance:
 The total sales amount is 1.6M, with a profit of 175K, indicating a healthy profit margin.
 The highest sales come from the West region (522K), followed by the East (450K).
 
-# Category & Product Analysis:
+## Category & Product Analysis:
 Office Supplies (0.64M) is the best-performing category, followed by Technology (0.47M) and Furniture (0.45M).
 Among sub-categories, Phones (0.20M) drive the highest revenue.
 
-# Customer Behavior:
+## Customer Behavior:
 The Consumer segment (48%) contributes the most sales, followed by Corporate (33%) and Home Office (19%).
 COD (43%) is the most used payment method, followed by Online (35%).
 
-# Shipping & Delivery:
+## Shipping & Delivery:
 Standard Class (0.91M) is the most used shipping mode, indicating cost-effective shipping choices.
 Same Day delivery (0.10M) has the least sales, suggesting a preference for budget shipping.
 
-# Sales Trends & Forecasting:
+## Sales Trends & Forecasting:
 Sales show a steady increase from 2019 to 2020, peaking towards the end of the year.
 The 15-day forecast predicts continued growth, with spikes in sales expected.
 
-## Final Conclusion 
+# Final Conclusion 
 The West region and Office Supplies category are the strongest revenue drivers.
 Consumer customers and COD payments dominate sales transactions.
 Standard Class shipping is the most preferred due to cost-effectiveness.
