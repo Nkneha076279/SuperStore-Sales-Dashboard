@@ -60,10 +60,10 @@ Sales show a steady increase from 2019 to 2020, peaking towards the end of the y
 The 15-day forecast predicts continued growth, with spikes in sales expected.
 
 ## Final Conclusion 
-.The West region and Office Supplies category are the strongest revenue drivers.
-.Consumer customers and COD payments dominate sales transactions.
-.Standard Class shipping is the most preferred due to cost-effectiveness.
-.Future sales are expected to grow, with key seasonal peaks influencing revenue.
+The West region and Office Supplies category are the strongest revenue drivers.
+Consumer customers and COD payments dominate sales transactions.
+Standard Class shipping is the most preferred due to cost-effectiveness.
+Future sales are expected to grow, with key seasonal peaks influencing revenue.
 
 
 
