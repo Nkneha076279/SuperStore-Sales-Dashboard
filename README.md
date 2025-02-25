@@ -1,2 +1,3 @@
-# SuperStore-Sales-Dashboard
-This project presents an interactive Power BI dashboard for analyzing and forecasting sales performance for a retail store. It provides insights into sales trends, profitability, regional performance, customer segments, shipping methods, and sales forecasts using historical data.
+#SuperStore Sales Analysis & Forecasting – Power BI Dashboard
+##Project Objective 
+This interactive Power BI dashboard helps to analyze and forecast retail sales by tracking key metrics (sales, profit, quantity), identifying trends (monthly YoY analysis), segmenting data (region, category, segment, shipping mode), and predicting future performance (15-day sales forecast) for data-driven decision-making.
