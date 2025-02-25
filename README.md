@@ -20,14 +20,14 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 - What is the projected sales forecast for the next 15 days?
 
 ## Dashboard
-- <a href-SuperStore Sales-Dashboard.pbi thttps://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore%20Sales-Dashboard.pbit
+- <a href-"SuperStore Sales-Dashboard.pbit"
 
 ## Project Process
-- Data Preparation – Collected, cleaned, and structured sales data for analysis.
-- KPI Definition – Created key metrics like Total Sales, Profit, and YoY Growth using DAX.
-- Dashboard Development – Built an interactive Power BI dashboard with insights on sales trends, regions, categories, and shipping modes.
-- Sales Forecasting – Implemented a 15-day sales prediction using time-series analysis.
-- Insights & Recommendations – Identified top-performing products, regions, and customer segments to optimize sales and marketing strategies.
+- **Data Preparation** – Collected, cleaned, and structured sales data for analysis.
+- **KPI Definition** – Created key metrics like Total Sales, Profit, and YoY Growth using DAX.
+- D**ashboard Development** – Built an interactive Power BI dashboard with insights on sales trends, regions, categories, and shipping modes.
+- **Sales Forecasting** – Implemented a 15-day sales prediction using time-series analysis.
+- **Insights & Recommendations** – Identified top-performing products, regions, and customer segments to optimize sales and marketing strategies.
 
 ## SuperStore Sales-Dashboard
 ![Screenshot 2025-02-25 210713](https://github.com/user-attachments/assets/4515ee86-9a78-4fd5-964d-ce7ad54450b8)
