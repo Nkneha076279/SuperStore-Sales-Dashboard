@@ -32,7 +32,7 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 ## SuperStore Sales-Dashboard
 ![Screenshot 2025-02-25 210713](https://github.com/user-attachments/assets/4515ee86-9a78-4fd5-964d-ce7ad54450b8)
 ## SuperStore Sales Forecasting-15 Days 
-![Screenshot 2025-02-25 210727](https://github.com/user-attachments/assets/f2f04e14-345d-4012-957f-9365025c73b3)
+![Screenshot 2025-02-25 231817](https://github.com/user-attachments/assets/545a6f39-c6fc-4929-b77f-59095301d1be)
 
 ## Project Insights:
 - **Sales Performance:**
