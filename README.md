@@ -20,7 +20,7 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 - What is the projected sales forecast for the next 15 days?
 
 ## Dashboard
-- <a href-"SuperStore Sales-Dashboard.pbit"
+- <a href-"[SuperStore Sales-Dashboard.pbit]"(https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore%20Sales-Dashboard.pbit)"
 
 ## Project Process
 - **Data Preparation** – Collected, cleaned, and structured sales data for analysis.
