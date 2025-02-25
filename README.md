@@ -6,21 +6,21 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 - <a href-"[SuperStore_Sales_Dataset.csv](https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)">Dataset</a>
 
 # Question (KPIs)
-- Sales Performance KPIs  
-### What is the total sales revenue?
+## Sales Performance KPIs  
+What is the total sales revenue?
 How does profit compare to total sales?
 What is the average order value (AOV)?
-- Regional & Category Insights
+## Regional & Category Insights
 Which region generates the highest sales?
 Which product category contributes the most revenue?
 What are the top-selling sub-categories?
-- Customer & Payment Behavior
+## Customer & Payment Behavior
 Which customer segment has the highest sales contribution?
 What is the most preferred payment method?
-- Shipping & Delivery Analysis
+## Shipping & Delivery Analysis
 Which shipping mode is most frequently used?
 How does shipping mode impact sales and profitability?
-- Trends & Forecasting
+## Trends & Forecasting
 What are the monthly sales trends over the years?
 What is the projected sales forecast for the next 15 days?
 
@@ -41,8 +41,8 @@ What is the projected sales forecast for the next 15 days?
 
 ## Project Insights:
 - Sales Performance:
-The total sales amount is 1.6M, with a profit of 175K, indicating a healthy profit margin.
-The highest sales come from the West region (522K), followed by the East (450K).
+- The total sales amount is 1.6M, with a profit of 175K, indicating a healthy profit margin.
+- The highest sales come from the West region (522K), followed by the East (450K).
 
 - Category & Product Analysis:
 Office Supplies (0.64M) is the best-performing category, followed by Technology (0.47M) and Furniture (0.45M).
