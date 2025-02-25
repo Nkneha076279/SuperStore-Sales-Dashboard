@@ -7,17 +7,17 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 
 ## Question (KPIs)  
 - What is the total sales revenue?
--How does profit compare to total sales?
--What is the average order value (AOV)?
--Which region generates the highest sales?
+- How does profit compare to total sales?
+- What is the average order value (AOV)?
+- Which region generates the highest sales?
 - Which product category contributes the most revenue?
 - What are the top-selling sub-categories?
--Which customer segment has the highest sales contribution?
--What is the most preferred payment method?
--Which shipping mode is most frequently used?
--How does shipping mode impact sales and profitability?
--What are the monthly sales trends over the years?
--What is the projected sales forecast for the next 15 days?
+- Which customer segment has the highest sales contribution?
+- What is the most preferred payment method?
+- Which shipping mode is most frequently used?
+- How does shipping mode impact sales and profitability?
+- What are the monthly sales trends over the years?
+- What is the projected sales forecast for the next 15 days?
 
 ## Dashboard
 - <a href-SuperStore Sales-Dashboard.pbi thttps://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore%20Sales-Dashboard.pbit
