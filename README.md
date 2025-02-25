@@ -24,7 +24,8 @@ How does shipping mode impact sales and profitability?
 What are the monthly sales trends over the years?
 What is the projected sales forecast for the next 15 days?
 
-- Dashboard Interaction <a href-"https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore%20Sales-Dashboard.pbit">
+## Dashboard
+- <a href-SuperStore Sales-Dashboard.pbi thttps://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore%20Sales-Dashboard.pbit
 
 ## Project Process
 Data Preparation – Collected, cleaned, and structured sales data for analysis.
