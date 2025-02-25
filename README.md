@@ -6,9 +6,8 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 - <a href-"[SuperStore_Sales_Dataset.csv](https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)">Dataset</a>
 
 # Question (KPIs)
-- Sales Performance KPIs
-  
-What is the total sales revenue?
+- Sales Performance KPIs  
+### What is the total sales revenue?
 How does profit compare to total sales?
 What is the average order value (AOV)?
 - Regional & Category Insights
