@@ -5,22 +5,22 @@ This interactive Power BI dashboard helps to analyze and forecast retail sales b
 # Dataset Used.
 - <a href-"[SuperStore_Sales_Dataset.csv](https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)">Dataset</a>
 
-## Question KPIs
-# Sales Performance KPIs
+# Question KPIs
+## Sales Performance KPIs
 What is the total sales revenue?
 How does profit compare to total sales?
 What is the average order value (AOV)?
-# Regional & Category Insights
+## Regional & Category Insights
 Which region generates the highest sales?
 Which product category contributes the most revenue?
 What are the top-selling sub-categories?
-# Customer & Payment Behavior
+## Customer & Payment Behavior
 Which customer segment has the highest sales contribution?
 What is the most preferred payment method?
-# Shipping & Delivery Analysis
+## Shipping & Delivery Analysis
 Which shipping mode is most frequently used?
 How does shipping mode impact sales and profitability?
-# Trends & Forecasting
+## Trends & Forecasting
 What are the monthly sales trends over the years?
 What is the projected sales forecast for the next 15 days?
 
